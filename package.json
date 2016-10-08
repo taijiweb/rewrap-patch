@@ -1,0 +1,25 @@
+{
+  "name": "rewrap-patch",
+  "version": "0.0.1",
+  "description": "monkey patch on String.prototype for rewrap",
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/taijiweb/rewrap-patch/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/taijiweb/rewrap-patch.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {
+  }
+}
